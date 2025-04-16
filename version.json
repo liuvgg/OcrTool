@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "url": "https://raw.githubusercontent.com/liuvgg/OcrTool/master/releases/OcrTool.exe",
-  "changelog": "✨ 新增自动更新\n🔧 修复保存路径错误"
+  "changelog": "✨ 界面优化，修复部分bug"
 }
